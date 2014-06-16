@@ -1,4 +1,4 @@
 CamCoin
 =======
 
-use this for your camming pleasure!! 
+Use this for your camming pleasure!! 
